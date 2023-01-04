@@ -1,4 +1,4 @@
-a=100
-b=100
+a=int(input("Enter a :"))
+b=int(input("Enter b :"))
 c=a+b
-print(c)
+print("The Sum is : ",c)
